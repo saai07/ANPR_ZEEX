@@ -8,19 +8,10 @@
 https://github.com/saai07/ANPR_ZEEX
 ```
 
-- Goto the cloned folder.
-```
-cd ANPR_ZEEX
-```
+
 - Install the dependecies
 ```
 pip install -e '.[dev]'
-
-```
-
-- Setting the Directory.
-```
-cd ultralytics/yolo/v8/detect
 ```
 
 - Download the Weights from the Google Drive
@@ -31,7 +22,7 @@ gdown "https://drive.google.com/uc?export=download&id=1vllvvS4jXzwPe7lA7hXjbrHCH
 ```
 gdown "https://drive.google.com/uc?export=download&id=1BOSEPsKj6hSAs5pvd88GNhlk5KPeAJce"
 
-
+```
 - Run the code with mentioned command below.
 
 ```
